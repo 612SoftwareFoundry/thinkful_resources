@@ -1,5 +1,6 @@
 ### Interesting Reads
 
+- [RailsGuides][7]
 - [Ruby Variables][1]
 - [Understanding Ruby Blocks, Procs, and Lambdas][2]
 - [Ruby Styleguide][3]
@@ -16,3 +17,4 @@
 [4]: http://www.poodr.com/
 [5]: http://www.rails-upgrade-checklist.com/
 [6]: http://dmcca.be/2014/02/02/the-value-of-rails-worst-practices.html
+[7]: http://guides.rubyonrails.org
