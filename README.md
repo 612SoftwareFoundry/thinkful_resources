@@ -17,4 +17,4 @@ If you have changes or anything to add, please fork this repo and issue a pull r
 [2]: code_examples
 [3]: Resources.md
 [4]: Tutorials.md
-[5]: Useful)Gems.md
+[5]: Useful_Gems.md
