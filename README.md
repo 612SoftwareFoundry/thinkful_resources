@@ -51,6 +51,7 @@ If you have changes or anything to add, please fork this repo and issue a pull r
 - [Understanding Ruby Blocks, Procs, and Lambdas][2]
 - [The value of Rails worst practices][6]
 - [Top 10 Mistakes that Rails Programmers Make][8]
+- [Best Practices for Designing a Pragmatic RESTful API][25]
 
 ### Books
 
@@ -81,3 +82,5 @@ If you have changes or anything to add, please fork this repo and issue a pull r
 [22]: http://blog.teamtreehouse.com/10-must-have-ruby-gems
 [23]: https://www.ruby-toolbox.com
 [24]: http://www.awesomecommandlineapps.com/gems.html
+[25]: http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+
