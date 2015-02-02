@@ -17,10 +17,10 @@ If you have changes or anything to add, please fork this repo and issue a pull r
 
 - [Ruby Doc][9]
 - [RailsGuides][7]
-- [RailsCasts][10]
 - [Ruby Variables][1]
 - [Ruby Styleguide][3]
 - [Rails Upgrade Checklist][5]
+- [Ruby on Rails (Security) Cheatsheet from OWASP][29]
 
 ### Useful Gems
 
@@ -33,13 +33,17 @@ If you have changes or anything to add, please fork this repo and issue a pull r
 - [Code Newbie][14]
 - [Code Newbie Resources][13]
 
-### Tutorials
+### Tutorials, Screencasts, and Video Tutorials
 
 - [Ruby Koans][15]
 - [RubyMonk][16]
 - [Michael Hartl's Ruby on Rails Tutorial][17]
 - [Learn Ruby on Rails][18]
 - [RailsBridge Curriculum][19]
+- [RailsCasts][10]
+- [Go Rails][26]
+- [Ruby Tapas][27]
+- [RailsApps][28]
 
 ### Newsletters
 
@@ -83,4 +87,7 @@ If you have changes or anything to add, please fork this repo and issue a pull r
 [23]: https://www.ruby-toolbox.com
 [24]: http://www.awesomecommandlineapps.com/gems.html
 [25]: http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
-
+[26]: https://gorails.com/
+[27]: http://www.rubytapas.com/
+[28]: http://railsapps.github.io/
+[29]: https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet
